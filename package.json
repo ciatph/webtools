@@ -1,0 +1,16 @@
+{
+  "name": "webdevtools",
+  "version": "1.0.0",
+  "description": "A collection of static nodejs web development tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ciatph",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "http-server": "^0.11.1"
+  }
+}
